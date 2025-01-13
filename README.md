@@ -124,4 +124,4 @@ Can't donate? well that's no problem just drop a **THANK YOU** this will motivat
 - Create a web version of the scanner
 - Add XSS & LFI Scanner
 - Improve the Links grabber thingy under bloggers view
-- Add some other scans under the Bloggers View
+- And more
